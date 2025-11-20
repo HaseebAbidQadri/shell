@@ -34,6 +34,16 @@ Notes:
 --> Avoid filenames with spaces to prevent errors.
 --> This mini shell is intended for educational purposes and safe experimentation.
 
+5. dependencies:
+
+Kj_iDt_3nkaMay9ljfg6Yzzu0J9_mhrICznCnj-MzQA=
+
+python -m venv venv
+
+.\venv\Scripts\Activate.ps1
+
+pip install cryptography psutil
+
 Author
 Haseeb Abid Qadri
 ---
