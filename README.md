@@ -15,16 +15,25 @@ This project is a lightweight Python-based mini shell that replicates basic term
 
 ## Usage
 1. Clone the repository:
+ 
    ```bash
    git clone <repository_url>
+
 2.Navigate to the project folder:
+ 
   cd mini-shell
+
 3. Run the shell:
+ 
   python "final.py"
+
 4.Start entering commands in the shell interface.
+
 Notes:
+
 --> Avoid filenames with spaces to prevent errors.
 --> This mini shell is intended for educational purposes and safe experimentation.
+
 Author
 Haseeb Abid Qadri
 ---
